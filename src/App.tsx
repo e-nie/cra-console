@@ -30,6 +30,8 @@ function App() {
             <h1>NEW DEV - git pull!!!</h1>
             <h1>NEW DEV - git pull!!!</h1>
             <h1>NEW DEV - git pull!!!</h1>
+            <h3>old dev e-nie is here again!!!</h3>
+            <div>O-))-OOOOOOOOOOOOOOOO</div>
 
         </div>
     );
