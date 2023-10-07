@@ -28,6 +28,8 @@ function App() {
             <h1>NEW DEV - git pull!!!</h1>
             <h1>NEW DEV - !!!</h1>
             <h1>NEW DEV - git pull!!!</h1>
+            <h1>NEW DEV - git pull!!!</h1>
+            <h1>NEW DEV - git pull!!!</h1>
 
         </div>
     );
