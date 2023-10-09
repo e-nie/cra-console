@@ -5,8 +5,6 @@ function App() {
     return (
         <div className = "App">
             Testing dev branch
-            Testing dev branch2
-
         </div>
     );
 }
