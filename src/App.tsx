@@ -8,6 +8,7 @@ function App() {
             Testing dev branch2
             Testing dev branch3
             <div>login branch commit1</div>
+            <div>login branch commit2</div>
         </div>
     );
 }
